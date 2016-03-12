@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S2_ExercicioConsolidacao</string>
+    <string name="action_settings">Settings Cenas</string>
+    <string name="page1_label">This is page 1</string>
+    <string name="page2_label">This is page 2</string>
+    <string name="page3_label">This is page 3</string>
+</resources>
